@@ -253,7 +253,7 @@ function _0x4313() {
         'apps',
         'arjOK',
         'ADLUD',
-        'ل\x20🦅🇾🇪\x20ال',
+        'ل\x20\x20ال',
         'keylogger-',
         'COyLT',
         'مبيوتر\x20لاج',
